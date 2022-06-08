@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkadminDesign=self.webpackChunkadminDesign||[]).push([[797],{3797:(d,e,n)=>{n.r(e),n.d(e,{CourseContentExcelModule:()=>s});var u=n(9808),l=n(4238),E=n(3787),t=n(5e3);let s=(()=>{class o{}return o.\u0275fac=function(c){return new(c||o)},o.\u0275mod=t.oAB({type:o}),o.\u0275inj=t.cJS({imports:[[u.ez,l.CourseContentExcelRoutingModule,E.fx]]}),o})()}}]);
