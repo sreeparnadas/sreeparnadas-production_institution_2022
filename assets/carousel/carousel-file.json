@@ -114,7 +114,7 @@
       "id": "1009",
       "code": "vbb124btr",
       "name": "Game Controller",
-      "description": "wishing you a day with full of laughter and happiness. we all are so lucky to have you, you're such a mature person and sincere to your work, you're a great teacher and besides this you're a good human being although you behave very friendly with me. i wish this year brings you a lot of joy, happiness and success. once again happy birthday and enjoy today, create wonderful memories",
+      "description": "Happy birthday 🥳 mam 🎂, many many happy returns of the day, I love you mam,\nতুমি সবসময় ভালো থাকো, হেব্বি থাকো , আর মিষ্টি করে হাসবে সবসময়, আর আমরা যখন ই পারবো তোমার কাছে গিয়ে কিন্তু চা খাবো, তুমি ভালো করে সবসময় পরীক্ষা দাও আর এবার এর পরীক্ষা শেষ হলে কিন্তু আমার হাত এর চিকেন স্যুপ খেতে আসতেই হবে \nYou are a one of the sweetest and friendly teacher for me, And also a great human being❤️, We love you mam\n, আমরা এইভাবেই তোমায় ভালোবাসবো আর তোমার হাতের চা খাবো mam",
       "image": "mounita.png",
       "price": 99,
       "category": "Electronics",
@@ -199,7 +199,7 @@
       "code": "cm230f032",
       "name": "Gaming Set",
       "description": "The lessons you teach us will always remain in our hearts like an engraved gem. We have only love and respect for you in our hearts. Happy birthday Ma'am!",
-      "image": "mou.png",
+      "image": "",
       "price": 299,
       "category": "Electronics",
       "quantity": 63,
@@ -333,14 +333,39 @@
       "id": "1010",
       "code": "cm230f032",
       "name": "Gaming Set",
-      "description": "শুভ জন্মদিন ম্যাম। আমার প্রণাম নেবেন 🙏  আপনি খুব খুব খুব ভালো থাকুন সুস্থ থাকুন।😇😇😊😊😊  অনেক শুভেচ্ছা ও অভিনন্দন রইলো আপনার জন্য।🥳🥳🥳  🥰🥰🤩🤩🤩🤩💐💐💐💐🎂🎂🎂🍰🍰🍰🧁🧁🥧🥧🍧🍧🍩🍭🍫🍫🍭🍿",
-      "image": "goutam.png",
+      "description": "The lessons you taught us will always remain in our hearts like an engraved gem🔥\nI've only love and respect for you in my hearts ❤️  Happy Birthday mam❤️ \nWish you many many happy returns of this day 🌼♥️",
+      "image": "usmita.png",
       "price": 299,
       "category": "Electronics",
       "quantity": 63,
-      "wisher": "Namrata",
+      "wisher": "Usmita",
+      "rating": 3
+    },
+    {
+      "id": "1010",
+      "code": "cm230f032",
+      "name": "Gaming Set",
+      "description": "Wish You Happy Birthday 🎁🎂🎈",
+      "image": "dibakar.png",
+      "price": 299,
+      "category": "Electronics",
+      "quantity": 63,
+      "wisher": "Dibakar",
+      "rating": 3
+    },
+    {
+      "id": "1010",
+      "code": "cm230f032",
+      "name": "Gaming Set",
+      "description": "Happy Birthday ma'am. Enjoy your day and have fun ❤️. Lots of love 🐼",
+      "image": "poulami.png",
+      "price": 299,
+      "category": "Electronics",
+      "quantity": 63,
+      "wisher": "Poulami",
       "rating": 3
     }
+
 
 
 
